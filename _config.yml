@@ -1,11 +1,11 @@
 # Basic
 title: ese.JiHea.Lim
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+subtitle: EMBEDDED SYSTEMS ENGINEERING
+description: I will slove every single questin!
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 임지혜 / 임베디드시스템공학과 학부생
 url: "https://eseJiHeaLim.github.io"
 
 # Comment
@@ -53,13 +53,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
-
+    title: Home
+    
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: posts, description: archive, url: '/archive'}   
+    - {title: tags, description: tags, url: '/tags'}      
+    - {title: about, description: about, url: '/about'}      
     
 
 # Pagination
