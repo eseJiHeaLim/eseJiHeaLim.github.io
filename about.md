@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我 
+title: About me 
 ---
 
 저는 임베디드시스템공학과 2학년 임지혜입니다.
