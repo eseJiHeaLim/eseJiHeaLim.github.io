@@ -38,3 +38,4 @@ ROS는 로봇 소프트웨어 프레임워크을 이루는 메타 운영체제 �
 **로봇 관련 기능**
 
 
+강의 출처 : https://www.youtube.com/channel/UCZhmmixKLLAZ2EejELXP4KQ
