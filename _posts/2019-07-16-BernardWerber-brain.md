@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [뇌]를 읽고나서
-date: 2019-07-11
+title: 뇌를 읽고나서
+date: 2019-07-16
 tags: 도서
 ---
 
