@@ -12,13 +12,13 @@ tags: linux, raspberry pi
 <p>
 호스트네임 변경 
 <p>
-`
+~~~BASH
 sudo nano /etc/hostname
-`
+~~~
 <p>
 <p>
 비밀번호 변경
 <p>
-`
+~~~BASH
 passwd
-`
+~~~
