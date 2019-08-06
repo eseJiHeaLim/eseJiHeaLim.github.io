@@ -9,7 +9,7 @@ dotfile :
 <p>
 . 으로 시작하는 파일로 리눅스, 유닉스에서 숨김파일로 보이는 파일
 <p>
-~~~BASH
+~~~bash
 pi@JH_raspberrypi:~/2017MidTerm $ ls 
 
 
